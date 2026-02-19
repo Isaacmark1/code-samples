@@ -21,14 +21,14 @@
 ## Project Structure:
 ```
 code-samples/
-├── backend/
-│   ├── middleware/     # Authentication, CORS, admin middleware
-│   ├── services/       # Service layer patterns
-│   └── database/       # Schema design and indexing
-├── frontend/
-│   ├── utils/          # Technical indicators, trading utilities
-│   └── components/     # Responsive React components
-└── architecture/      # System design documentation
+   backend/
+      middleware/     # Authentication, CORS, admin middleware
+      services/       # Service layer patterns
+      database/       # Schema design and indexing
+  frontend/
+      utils/          # Technical indicators, trading utilities
+      components/     # Responsive React components
+  architecture/      # System design documentation
 ```
 
 ## Key Features Demonstrated:
